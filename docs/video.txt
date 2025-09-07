@@ -1,0 +1,20 @@
+
+
+playlist:
+https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
+
+
+next video
+Multiple Linear Regression | Part 3 | Code From Scratch
+
+https://www.youtube.com/watch?v=VmZWXzxmNrE&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=55
+
+2:39
+
+
+
+links:
+
+Plotly tutorial for beginners | Graph Objects
+
+https://www.youtube.com/watch?v=5mnitCrNQzI&t=606s
