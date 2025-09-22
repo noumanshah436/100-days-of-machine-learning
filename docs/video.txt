@@ -5,8 +5,12 @@ https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
 
 
 next video
-Stochastic Gradient Descent
-https://www.youtube.com/watch?v=V7KBAa_gh4c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=58
+
+Logistic Regression Part 2 | Perceptron Trick Code
+https://www.youtube.com/watch?v=tLezwPKvPK4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=70
+
+
+
 
 links:
 
