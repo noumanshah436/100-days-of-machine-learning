@@ -5,9 +5,10 @@ https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
 
 
 next video
+https://www.youtube.com/watch?v=c09drtuCS3c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=75
 
-Logistic Regression Part 2 | Perceptron Trick Code
-https://www.youtube.com/watch?v=tLezwPKvPK4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=70
+Accuracy and Confusion Matrix | Type 1 and Type 2 Errors | Classification Metrics Part 1
+
 
 
 
