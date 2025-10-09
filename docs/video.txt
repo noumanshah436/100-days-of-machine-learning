@@ -1,15 +1,10 @@
-
-
 playlist:
 https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
 
 
 next video
-https://www.youtube.com/watch?v=c09drtuCS3c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=75
-
-Accuracy and Confusion Matrix | Type 1 and Type 2 Errors | Classification Metrics Part 1
-
-
+https://www.youtube.com/watch?v=WnBYW_DX3sM&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=78
+Polynomial Features in Logistic Regression | Non Linear Logistic Regression | Logistic Regression 7
 
 
 
